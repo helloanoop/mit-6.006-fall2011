@@ -1,0 +1,24 @@
+{
+  "name": "mit-6.006-fall2011",
+  "version": "1.0.0",
+  "description": "",
+  "main": "peak-finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoopmd/mit-6.006-fall2011.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anoopmd/mit-6.006-fall2011/issues"
+  },
+  "homepage": "https://github.com/anoopmd/mit-6.006-fall2011#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
